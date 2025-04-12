@@ -3,8 +3,8 @@
       Project 06-01
 
       Project to validate a form used for setting up a new account
-      Author: 
-      Date:   
+      Author: Amr Gaballa
+      Date:  4/12/2025 
 
       Filename: task1.js
 */
