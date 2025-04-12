@@ -3,3 +3,5 @@ This repository provides the template files for this assignment. Please follow t
 
 # Submission
 Once you have completed the project, commit your changes and push them to your GitHub repository.
+
+NOte Used Live server extension
